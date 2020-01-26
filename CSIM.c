@@ -1,4 +1,4 @@
-/*Written by Graham Hill; g3534065; for computer architecture; Suboh Suboh*/
+/*Written by Graham Hill;*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
